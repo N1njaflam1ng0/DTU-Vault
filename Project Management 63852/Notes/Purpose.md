@@ -321,3 +321,5 @@ Point: on time + on budget â‰  success (health platform), and late + expensive â
 - Specification sets clear direction and helps decision making - deciding what the purpose is NOT is just as important
 - Implications for motivation
 
+
+
